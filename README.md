@@ -6,13 +6,13 @@ This repository contains the code and documentation for a data mining project fo
 
 ## Dataset Overview
 
-The dataset used in this project consists of the following details:
+The MetroPT-3 Dataset comprises data collected from various sensors on a compressor's Air Production Unit (APU) within a metro train. This dataset presents practical predictive maintenance scenarios encountered in the industry, featuring readings from pressure, temperature, motor current, and air intake valves. It is a collection of multivariate time series data, obtained from both analog and digital sensors installed on the train's compressor.
+
+The dataset consists of the following details:
 
 - Total Entries: 1,516,948
 - Columns: 17
 - Data Types: Integer, Float, Object
-
-The dataset columns include information about timestamps, various sensor readings, and other relevant parameters.
 
 ## Project Steps
 
