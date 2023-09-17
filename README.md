@@ -25,9 +25,9 @@ Here is an overview of the key steps undertaken in this project:
 
 4. **Data Visualization:** We utilized various visualization techniques like heatmaps and time series plots to visualize the data and identify patterns, correlations, and trends.
 
-5. **Regression Model:** A regression model was developed to predict oil temperature and motor current based on the sensor readings.
+5. **Regression Model:** A Linear regression model was developed to predict oil temperature and motor current based on the sensor readings. We carefully examined heatmaps and correlations among all parameters, using these insights to choose the most relevant features for our models.
 
-6. **Logistic Model:** We built a logistic regression and Random Forest models for failure detection. This model can help identify potential failures or issues in the Metro train system by analyzing sensor readings.
+6. **Classification Model:** We built a logistic regression and Random Forest models for failure detection. This model can help identify potential failures or issues in the Metro train system by analyzing sensor readings.
 
 ## Contributors
 
